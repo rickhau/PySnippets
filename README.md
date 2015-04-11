@@ -1,8 +1,6 @@
 ## PySnippets
 Collection of useful python code snippets
-
-## Goal
-It's convenient to find the useful python code snippets to rapidly fulfill your needs.
+The purpose is easily to find the useful python code snippets to help you design your function rapidly
 
 ## Contribution
 Feel free to send out your pull request with your PySnippets and following components:  
@@ -13,6 +11,10 @@ Feel free to send out your pull request with your PySnippets and following compo
 
 ## Attention
 Separate your code snippets into different files if they are used for different puropose.
+
+
+#### Data Structure
+* [QuickSort] quicksort.py
 
 
 
