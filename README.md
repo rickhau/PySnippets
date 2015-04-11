@@ -8,7 +8,7 @@ It's convenient to find the useful python code snippets to rapidly fulfill your 
 Feel free to send out your pull request with your PySnippets and following components:  
 
   1. code snippets
-  2. how to use 
+  2. example code how to use
   3. documents
 
 ## Attention
