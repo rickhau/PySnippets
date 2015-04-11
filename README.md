@@ -14,7 +14,7 @@ Separate your code snippets into different files if they are used for different 
 
 
 #### Data Structure
-* [QuickSort] [quicksort.py](quicksorty.py)
+* [QuickSort] [quicksort.py](quicksort.py)
 
 
 
