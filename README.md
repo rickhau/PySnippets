@@ -13,6 +13,9 @@ Feel free to send out your pull request with your PySnippets and following compo
 Separate your code snippets into different files if they are used for different puropose.
 
 
+#### File Manipulation and handling
+* [FileSize][getfilesize.py](filesize.py)
+
 #### Data Structure
 * [QuickSort] [quicksort.py](quicksort.py)
 
