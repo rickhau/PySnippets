@@ -14,7 +14,7 @@ Separate your code snippets into different files if they are used for different 
 
 
 #### File Manipulation and handling
-* [FileSize][getfilesize.py](filesize.py)
+* [FileSize] [getfilesize.py](getfilesize.py)
 
 #### Data Structure
 * [QuickSort] [quicksort.py](quicksort.py)
